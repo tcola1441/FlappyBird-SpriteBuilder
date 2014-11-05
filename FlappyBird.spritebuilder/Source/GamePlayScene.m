@@ -27,6 +27,7 @@ if (timeSinceObstacle > 2.0f)
     [self addObstacle];
     
     // Then reset the timer.
-    timeSinceObstacle = 0.0f;
-}
+    timeSinceObstacle = 0.0f;}
 @end
+@end
+
